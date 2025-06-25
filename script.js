@@ -1,0 +1,9 @@
+this file is just created to demonstrate just how to use GitHub repository to upload files in our GitHub repository
+
+
+
+
+
+
+
+script.js
